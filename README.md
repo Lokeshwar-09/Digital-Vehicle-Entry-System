@@ -6,7 +6,7 @@
 [![TailwindCSS](https://img.shields.io/badge/Styling-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![Meta WhatsApp](https://img.shields.io/badge/API-WhatsApp%20Cloud-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://developers.facebook.com/docs/whatsapp/cloud-api)
 
-A secure, paperless, and automated **Digital Vehicle Entry System (DVES)** custom-tailored for **Bharat Dynamics Limited (BDL), Kanchanbagh**. The system streamlines the authorization and verification of external vehicles and vendors entering secure zones, connecting departments, host employees, and security checkpoints on a real-time responsive dashboard.
+A secure, paperless, and automated Digital Vehicle Entry System (DVES) that streamlines the authorization, verification, and monitoring of external vehicles and vendors entering secure premises. The system replaces manual entry processes with a centralized, real-time responsive dashboard that seamlessly connects departments, host employees, and security personnel.
 
 ---
 
@@ -260,4 +260,4 @@ For departmental pass requests, you can log in using any of the following depart
 
 ---
 
-*Made with ❤️ for Bharat Dynamics Limited.*
+
